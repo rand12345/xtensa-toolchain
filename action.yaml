@@ -1,4 +1,4 @@
-name: Rust Toolchain for Xtensa
+name: Rust Toolchain for Xtensa Forked
 description: Install the Rust compiler fork targeting Xtensa devices
 author: esp-rs
 
